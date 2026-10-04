@@ -1,0 +1,14 @@
+{
+  "device": "cpu",
+  "total_parameters": 7763041,
+  "checkpoint_file_size_mb": 29.67,
+  "ram_before_load_mb": 206.21,
+  "ram_model_loaded_mb": 268.39,
+  "ram_model_weights_delta_mb": 62.18,
+  "peak_ram_during_inference_mb": 286.47,
+  "average_inference_time_ms": 46.88,
+  "throughput_fps": 21.3,
+  "input_resolution": "48x48",
+  "output_mask_resolution": "1280x720 (native)",
+  "num_images_processed": 350
+}
